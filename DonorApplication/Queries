@@ -1,0 +1,2 @@
+create table donor_details(donor_
+insert into Donor_Details values(donorId_sequence.nextVal,?,?,?,Sysdate,?)
